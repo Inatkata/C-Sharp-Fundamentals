@@ -1,0 +1,14 @@
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net6.0\10. Lower or Upper.exe
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net6.0\10. Lower or Upper.deps.json
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net6.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net6.0\10. Lower or Upper.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net6.0\10. Lower or Upper.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\10. Lower or Upper.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\refint\10. Lower or Upper.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\10. Lower or Upper.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\10. Lower or Upper.genruntimeconfig.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net6.0\ref\10. Lower or Upper.dll

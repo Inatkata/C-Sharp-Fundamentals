@@ -1,0 +1,14 @@
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.exe
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.deps.json
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\refint\02. Pounds to Dollars.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\ref\02. Pounds to Dollars.dll

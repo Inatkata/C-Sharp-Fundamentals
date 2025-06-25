@@ -1,0 +1,14 @@
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\04. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\04. Reverse String.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\04. Reverse String.AssemblyInfo.cs
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\04. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\bin\Debug\net6.0\04. Reverse String.exe
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\bin\Debug\net6.0\04. Reverse String.deps.json
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\bin\Debug\net6.0\04. Reverse String.runtimeconfig.json
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\bin\Debug\net6.0\04. Reverse String.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\bin\Debug\net6.0\04. Reverse String.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\04. Reverse String.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\refint\04. Reverse String.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\04. Reverse String.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\04. Reverse String.genruntimeconfig.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\04. Reverse String\obj\Debug\net6.0\ref\04. Reverse String.dll

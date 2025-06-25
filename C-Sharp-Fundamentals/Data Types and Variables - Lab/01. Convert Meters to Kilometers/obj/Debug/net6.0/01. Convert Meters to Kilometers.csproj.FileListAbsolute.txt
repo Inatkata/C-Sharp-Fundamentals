@@ -1,0 +1,14 @@
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.exe
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.deps.json
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.runtimeconfig.json
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.AssemblyInfo.cs
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\refint\01. Convert Meters to Kilometers.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.genruntimeconfig.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net6.0\ref\01. Convert Meters to Kilometers.dll

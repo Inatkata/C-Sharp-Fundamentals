@@ -1,0 +1,14 @@
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\bin\Debug\net6.0\02. English Name of the Last Digit.exe
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\bin\Debug\net6.0\02. English Name of the Last Digit.deps.json
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\bin\Debug\net6.0\02. English Name of the Last Digit.runtimeconfig.json
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\bin\Debug\net6.0\02. English Name of the Last Digit.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\bin\Debug\net6.0\02. English Name of the Last Digit.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\02. English Name of the Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\02. English Name of the Last Digit.AssemblyInfo.cs
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\02. English Name of the Last Digit.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\refint\02. English Name of the Last Digit.dll
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\02. English Name of the Last Digit.pdb
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\02. English Name of the Last Digit.genruntimeconfig.cache
+C:\Users\macbook\Desktop\C#Fundamentals\Exercise 2 Basic Syntax\02. English Name of the Last Digit\obj\Debug\net6.0\ref\02. English Name of the Last Digit.dll
